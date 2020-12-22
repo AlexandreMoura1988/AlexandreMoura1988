@@ -5,7 +5,7 @@
 - 🇵🇹 Born in Santo Tirso, Portugal, living in Lisbon
 
 
-- ⚡ Fun fact: Hidding for 3 months my first name from my class at &lt;Academia de codigo_&gt;
+- ⚡ Fun fact: Hidding for 3 months my first name from my class at &lt;Academia de Código_&gt;
 
 ## Technologies 
 ![](https://img.shields.io/badge/<Java>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=d35400)
