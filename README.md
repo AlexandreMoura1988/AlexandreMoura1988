@@ -2,7 +2,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💻 Full Stack Developer
-- 🇵🇹 Born in Santo Tirso, Portugal, living in Lisbon
+- 🇵🇹 Born in Santo Tirso, Portugal
+- 🏡 Living in Lisbon
 
 
 - ⚡ Fun fact: Hidding for 3 months my first name from my class at &lt;Academia de Código_&gt;
