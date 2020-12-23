@@ -22,5 +22,10 @@
 
 Reach me out 👇🏻 📫  💬
 
-[![Linkedin Badge](https://img.shields.io/badge/-AlexandreMoura-6633cc??style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-r-moura/)](https://www.linkedin.com/in/alexandre-r-moura/)
-[![Gmail Badge](https://img.shields.io/badge/-alexandremoura@live.com.pt-ab0909?style=plastic&logo=Gmail&logoColor=white&link=mailto:alexandremoura@live.com.pt)](mailto:alexandremoura@live.com.pt)
+<a href="https://www.https://www.linkedin.com/in/alexandre-r-moura/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto:alexandremoura@live.com.pt">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
