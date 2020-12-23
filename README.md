@@ -22,7 +22,7 @@
 
 Reach me out 👇🏻 📫  💬
 
-<a href="https://www.https://www.linkedin.com/in/alexandre-r-moura/">
+<a href="https://www.linkedin.com/in/alexandre-r-moura/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
 </a>
 
