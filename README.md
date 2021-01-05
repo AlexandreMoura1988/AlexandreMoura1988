@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💻 Full Stack Developer
+- 💻 Junior Full Stack Developer
 - 🇵🇹 Born in Santo Tirso, Portugal
 - 🏡 Living in Lisbon
 
